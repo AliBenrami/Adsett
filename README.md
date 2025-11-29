@@ -1,4 +1,4 @@
-# **Built at HackUTA 2025**
+# **Built at HackUTA 2025 🚀**
 
 # Adsett — AI-Powered Ad Creative Feedback  
 Smarter Ads. Sharper Insights.
